@@ -50,28 +50,28 @@ budget_tracker/
 ##  Screenshots
 
 ###  Home Page
-![Home](images/home.png)
+![Home](screenshots/home.png)
 
 ###  Add Transaction
-![Add](images/transaction.png)
+![Add](screenshots/transaction.png)
 
 ###  pie Chart View
-![piechart](images/piechart.png)
+![piechart](screenshots/piechart.png)
 
 ### month comparison
-![chart](images/compare.png)
+![chart](screenshots/compare.png)
 
 ### Main page of upload
-![Dashboard](images/dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 ### Goal
-![Goal](images/goal.png)
+![Goal](screenshots/goal.png)
 
 ### Login
-![Login](images/login.png)
+![Login](screenshots/login.png)
 
 ### Transaction History
-![History](images/ts_history.png)
+![History](screenshots/ts_history.png)
 
 
 
