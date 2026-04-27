@@ -56,7 +56,7 @@ budget_tracker/
 ![Add](images/transaction.png)
 
 ###  pie Chart View
-![piechart](images/pie chart.png)
+![piechart](images/piechart.png)
 
 ### month comparison
 ![chart](images/compare.png)
@@ -71,7 +71,7 @@ budget_tracker/
 ![Login](images/login.png)
 
 ### Transaction History
-![History](images/TS HISTORY.png)
+![History](images/ts_history.png)
 
 
 
